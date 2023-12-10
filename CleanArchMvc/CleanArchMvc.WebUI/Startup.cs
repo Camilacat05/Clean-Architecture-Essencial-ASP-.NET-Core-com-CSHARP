@@ -24,8 +24,9 @@ namespace CleanArchMvc.WebUI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddInfrastructure(Configuration);
+            services.AddInfrastructure(Configuration);// classe da camada de infraestrutura com a injeção de dependencia com os serviços
             services.AddControllersWithViews();
+           
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

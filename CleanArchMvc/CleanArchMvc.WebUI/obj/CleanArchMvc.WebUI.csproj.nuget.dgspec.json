@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj": {}
+    "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj": {}
   },
   "projects": {
-    "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj": {
+    "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+        "projectUniqueName": "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
         "projectName": "CleanArchMvc.Application",
-        "projectPath": "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+        "projectPath": "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
         "packagesPath": "C:\\Users\\cctie\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.Application\\obj\\",
+        "outputPath": "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
-                "projectPath": "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
+              "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+                "projectPath": "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
               }
             }
           }
@@ -47,6 +47,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Automapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
               "version": "[5.0.17, )"
@@ -91,14 +95,14 @@
         }
       }
     },
-    "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+    "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
         "projectName": "CleanArchMvc.Domain",
-        "projectPath": "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+        "projectPath": "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
         "packagesPath": "C:\\Users\\cctie\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.Domain\\obj\\",
+        "outputPath": "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -174,14 +178,14 @@
         }
       }
     },
-    "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj": {
+    "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
         "projectName": "CleanArchMvc.Infra.Data",
-        "projectPath": "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
+        "projectPath": "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\cctie\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.Infra.Data\\obj\\",
+        "outputPath": "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -201,8 +205,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
-                "projectPath": "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
+              "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+                "projectPath": "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
               }
             }
           }
@@ -217,17 +221,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
-              "target": "Package",
-              "version": "[5.0.17, )"
-            },
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[5.0.17, )"
-            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
+              "suppressParent": "None",
               "target": "Package",
               "version": "[5.0.17, )"
             },
@@ -261,14 +257,14 @@
         }
       }
     },
-    "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.Infra.Ioc\\CleanArchMvc.Infra.Ioc.csproj": {
+    "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.Infra.Ioc\\CleanArchMvc.Infra.Ioc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.Infra.Ioc\\CleanArchMvc.Infra.Ioc.csproj",
+        "projectUniqueName": "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.Infra.Ioc\\CleanArchMvc.Infra.Ioc.csproj",
         "projectName": "CleanArchMvc.Infra.Ioc",
-        "projectPath": "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.Infra.Ioc\\CleanArchMvc.Infra.Ioc.csproj",
+        "projectPath": "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.Infra.Ioc\\CleanArchMvc.Infra.Ioc.csproj",
         "packagesPath": "C:\\Users\\cctie\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.Infra.Ioc\\obj\\",
+        "outputPath": "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.Infra.Ioc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -288,14 +284,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj": {
-                "projectPath": "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj"
+              "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj": {
+                "projectPath": "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj"
               },
-              "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
-                "projectPath": "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
+              "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+                "projectPath": "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
               },
-              "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj": {
-                "projectPath": "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj"
+              "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj"
               }
             }
           }
@@ -354,14 +350,14 @@
         }
       }
     },
-    "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj": {
+    "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
+        "projectUniqueName": "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
         "projectName": "CleanArchMvc.WebUI",
-        "projectPath": "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
+        "projectPath": "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
         "packagesPath": "C:\\Users\\cctie\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.WebUI\\obj\\",
+        "outputPath": "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.WebUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -381,8 +377,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.Infra.Ioc\\CleanArchMvc.Infra.Ioc.csproj": {
-                "projectPath": "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.Infra.Ioc\\CleanArchMvc.Infra.Ioc.csproj"
+              "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.Infra.Ioc\\CleanArchMvc.Infra.Ioc.csproj": {
+                "projectPath": "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.Infra.Ioc\\CleanArchMvc.Infra.Ioc.csproj"
               }
             }
           }
@@ -397,6 +393,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Automapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
               "version": "[5.0.17, )"

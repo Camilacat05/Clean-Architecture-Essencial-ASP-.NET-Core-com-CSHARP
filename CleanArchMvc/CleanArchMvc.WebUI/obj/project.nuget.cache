@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rjx6hJPIQiQJx/nz1PyO5C4zlnPjVFmKxYtFXp+SNEmtCOxaoLAIFUIl6G1JBAsj34izH15ayX0O9Rk3y+udVQ==",
+  "dgSpecHash": "QXdAHFSKZIZ2LufWZ2L32H9EyOgOZsNB2Lyq8dP76C4ueBcfNJ3faRe93H6B+uCiOYOvOHOUzNss1It8agcpDw==",
   "success": true,
-  "projectFilePath": "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
+  "projectFilePath": "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\cctie\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\cctie\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\cctie\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.17\\microsoft.aspnetcore.mvc.razor.extensions.5.0.17.nupkg.sha512",
     "C:\\Users\\cctie\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.17\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.17.nupkg.sha512",
@@ -75,7 +76,7 @@
     "C:\\Users\\cctie\\.nuget\\packages\\system.private.datacontractserialization\\4.3.0\\system.private.datacontractserialization.4.3.0.nupkg.sha512",
     "C:\\Users\\cctie\\.nuget\\packages\\system.private.uri\\4.3.2\\system.private.uri.4.3.2.nupkg.sha512",
     "C:\\Users\\cctie\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
-    "C:\\Users\\cctie\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
+    "C:\\Users\\cctie\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\cctie\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
     "C:\\Users\\cctie\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
     "C:\\Users\\cctie\\.nuget\\packages\\system.reflection.extensions\\4.3.0\\system.reflection.extensions.4.3.0.nupkg.sha512",

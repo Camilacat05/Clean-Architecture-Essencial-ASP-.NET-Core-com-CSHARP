@@ -28,12 +28,12 @@ namespace CleanArchMvc.Infra.Data.Repositories
 
         public async Task<Category> GetById(int? id)
         {
-            return await _categoryContext.Products.FindAsync(id);
+            return await _categoryContext.Categories.FindAsync(id);
         }
 
         public async Task<IEnumerable<Category>> GetCategories()
         {
-            return await _categoryContext.Products.ToListAsync();
+            return await _categoryContext.Categories.ToListAsync();
         }
 
         public async Task<Category> Remove(Category category)

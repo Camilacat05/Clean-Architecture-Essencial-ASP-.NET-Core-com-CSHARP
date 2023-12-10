@@ -9041,11 +9041,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj",
       "projectName": "CleanArchMvc.Domain.Tests",
-      "projectPath": "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj",
+      "projectPath": "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj",
       "packagesPath": "C:\\Users\\cctie\\.nuget\\packages\\",
-      "outputPath": "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.Domain.Tests\\obj\\",
+      "outputPath": "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.Domain.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9065,8 +9065,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
-              "projectPath": "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
+            "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+              "projectPath": "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
             }
           }
         }

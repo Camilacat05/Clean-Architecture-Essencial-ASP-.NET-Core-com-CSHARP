@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q9mYgs2l/96ui3rWQJqR+Tfcvi/tP90KpGs87jVQAYrFCnznJ6Qx+LHjNEn3wd1+F6qSufLc2f6/U0zA/Fvdjg==",
+  "dgSpecHash": "H55U7vvKKdSM7bZkvKW/9bFetjU7BnZhG1nnslBFYpHi8i4SeHX9tRcmCZwbGZw9NGsNc6fWbT7WWMxvMMrkFw==",
   "success": true,
-  "projectFilePath": "D:\\repos\\projetos udemy\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+  "projectFilePath": "C:\\Users\\cctie\\Documents\\programas-Csharp\\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cctie\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\cctie\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.17\\microsoft.aspnetcore.mvc.razor.extensions.5.0.17.nupkg.sha512",

@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = CleanArchMvc.WebUI
-build_property.ProjectDir = D:\repos\projetos udemy\CleanArchMvc\CleanArchMvc.WebUI\
+build_property.ProjectDir = C:\Users\cctie\Documents\programas-Csharp\Clean-Architecture-Essencial-ASP-.NET-Core-com-CSHARP\CleanArchMvc\CleanArchMvc.WebUI\
